@@ -1,5 +1,13 @@
 # Somewhere between data, models, and curiosity
-🔭 I’m currently working on AI/ML and Data Science projects focused on solving real-world problems using data and intelligent models<br>👯 I’m looking to collaborate on AI, Machine Learning, Data Science, and LLM-based applications or hackathon projects<br>🤝 I’m looking for help with Optimizing ML models, deploying AI systems, and exploring scalable LLM workflows<br>🌱 I’m currently learning Large Language Models (LLMs), deep learning, Agentic AI , MLOps, and advanced data science concepts<br>💬 Ask me about Machine Learning, Data Science, Python, AI projects, hackathons, and project building<br>⚡ Fun fact I often end up training models longer than my sleep schedule and somehow enjoy it 🤖☕
+🔭 I’m currently working on AI/ML and Data Science projects focused on solving real-world problems using data and intelligent models<br>
+
+👯 I’m looking to collaborate on AI, Machine Learning, Data Science, and LLM-based applications or hackathon projects<br>
+
+🤝 I’m looking for help with Optimizing ML models, deploying AI systems, and exploring scalable LLM workflows<br>
+
+🌱 I’m currently learning Large Language Models (LLMs), deep learning, Agentic AI , MLOps, and advanced data science concepts<br>💬 Ask me about Machine Learning, Data Science, Python, AI projects, hackathons, and project building<br>
+<br>
+⚡ Fun fact I often end up training models longer than my sleep schedule and somehow enjoy it 🤖☕
 
 
 ## 🌐 Socials:
