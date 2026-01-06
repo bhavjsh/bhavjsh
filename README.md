@@ -13,6 +13,10 @@
 
 <hr/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=$+whoami;bhavjsh;AI+%7C+ML+%7C+Engineer;$+cat+about.txt;Building+intelligent+systems;Learning+every+day" />
+</p>
+
 
 # Somewhere between data, models, and curiosity
 🔭 I’m currently working on AI/ML and Data Science projects focused on solving real-world problems using data and intelligent models<br>
@@ -38,7 +42,7 @@
 
 ![Code Signal](https://github-readme-activity-graph.vercel.app/graph?username=bhavjsh&theme=minimal&hide_border=true)
 
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=bhavjsh&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bhavjsh&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavjsh&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -50,9 +54,6 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=$+whoami;bhavjsh;AI+%7C+ML+%7C+Engineer;$+cat+about.txt;Building+intelligent+systems;Learning+every+day" />
-</p>
 
 
 
