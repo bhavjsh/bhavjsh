@@ -1,15 +1,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
     font=Fira+Code
-    &size=28
+    &size=36
     &duration=3000
     &pause=1000
     &color=00F7FF
     &center=true
     &vCenter=true
     &width=600
-    &lines=bhavjsh;Full+Stack+Developer;Open+Source+Enthusiast" />
+    &lines=Bhavish;AI+%26+ML+Engineer;Data+Science+Enthusiast" />
 </p>
+
+<hr/>
+
 # Somewhere between data, models, and curiosity
 🔭 I’m currently working on AI/ML and Data Science projects focused on solving real-world problems using data and intelligent models<br>
 
