@@ -29,7 +29,7 @@
 
 💬 Ask me about Machine Learning, Data Science, Python, AI projects, hackathons, and project building<br>
 
-⚡ Fun fact I often end up training models longer than my sleep schedule and somehow enjoy it☕
+⚡ Fun fact I often end up training models longer than my sleep schedule and somehow enjoy it ;)
 
 
 ## 🌐 Socials:
