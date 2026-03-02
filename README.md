@@ -52,7 +52,6 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![Bhavini's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavjsh&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true)
 
 
 
@@ -65,4 +64,29 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bhavjsh&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+---
+
+## AI SYSTEM STATUS
+
+```bash
+> initializing bhavjsh.exe ...
+
+User            :: Bhavini
+Role            :: AI / ML Engineer
+Primary Stack   :: Python • PyTorch • FastAPI • LLMs
+Current Focus   :: Agentic AI + Scalable ML Systems
+
+--------------------------------------------
+
+Model Status    :: Training...
+Epoch           :: ∞
+Overfitting     :: False
+Curiosity       :: 100%
+Sleep           :: Deprecated
+Learning Rate   :: Increasing 🚀
+
+--------------------------------------------
+
+System Message  :: "Somewhere between data, models, and curiosity."
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
