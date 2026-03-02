@@ -65,11 +65,11 @@
 [![](https://visitcount.itsvg.in/api?id=bhavjsh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[![GitHub Skyline](https://img.shields.io/badge/View-3D_Skyline-00FF9C?style=for-the-badge)](https://skyline.github.com/bhavjsh)
+![LLMs](https://img.shields.io/badge/Focus-Large_Language_Models-00FF9C?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Exploring-Agentic_AI-00FF9C?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/Scaling-MLOps_Systems-00FF9C?style=for-the-badge)
+![Research](https://img.shields.io/badge/Studying-Model_Interpretability-00FF9C?style=for-the-badge)
 
-
-<a href="https://github.com/bhavjsh?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavjsh&repo=bhavjsh&theme=shadow_green">
-</a>
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
