@@ -54,6 +54,7 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+![GitHub Contribution Rocket](https://raw.githubusercontent.com/bhavjsh/rocket_animation/main/assets/game-recording.webp)
 
 
 
