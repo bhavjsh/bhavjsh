@@ -54,8 +54,9 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![GitHub Contribution Rocket](https://raw.githubusercontent.com/bhavjsh/rocket_animation/main/assets/game-recording.webp)
+## 📈 Contribution Graph
 
+[![Bhavini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavjsh&theme=github-compact&hide_border=true)](https://github.com/bhavjsh)
 
 
 ### 🔝 Top Contributed Repo
