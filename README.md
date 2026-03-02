@@ -52,6 +52,8 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+![Bhavini's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavjsh&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true)
+
 
 
 [![Bhavini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavjsh&theme=github-compact&hide_border=true)](https://github.com/bhavjsh)
