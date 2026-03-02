@@ -61,7 +61,6 @@
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bhavjsh&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=bhavjsh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
@@ -69,7 +68,5 @@
 ![Agentic AI](https://img.shields.io/badge/Exploring-Agentic_AI-00FF9C?style=for-the-badge)
 ![MLOps](https://img.shields.io/badge/Scaling-MLOps_Systems-00FF9C?style=for-the-badge)
 ![Research](https://img.shields.io/badge/Studying-Model_Interpretability-00FF9C?style=for-the-badge)
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
