@@ -20,6 +20,7 @@
 
 # Somewhere between data, models, and curiosity
  I’m currently working on AI/ML and Data Science projects focused on solving real-world problems using data and intelligent models<br>
+ 
  I’m looking to collaborate on AI, Machine Learning, Data Science, and LLM-based applications or hackathon projects<br>
 
  I’m looking for help with Optimizing ML models, deploying AI systems, and exploring scalable LLM workflows<br>
